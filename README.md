@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 <!-- Quick metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=1E293B&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=334155" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat&color=475569" />
+  <img src="https://komarev.com/ghpvc/?username=Evillm&label=Profile%20views&color=1E293B&style=flat" />
+  <img src="https://img.shields.io/github/followers/Evillm?label=Followers&style=flat&color=334155" />
+  <img src="https://img.shields.io/github/stars/Evillm?label=Stars&style=flat&color=475569" />
 </p>
 
 ---

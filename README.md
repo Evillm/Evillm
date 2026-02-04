@@ -87,8 +87,9 @@ Here are some ideas to get you started:
 
 ### 🔹 Programming & Scripting
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge)
-![php](https://img.shields.io/badge/php-000000?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🔹 Operating Systems & Virtualization
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -103,6 +104,7 @@ Here are some ideas to get you started:
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco)
 
 ### 🔹 Cybersecurity (Offensive & Defensive)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Web Pentesting](https://img.shields.io/badge/Web_Pentesting-8B0000?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
 

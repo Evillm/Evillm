@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Evillm/Evillm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Evilm/Evilm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 <!-- Quick metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Evillm&label=Profile%20views&color=1E293B&style=flat" />
-  <img src="https://img.shields.io/github/followers/Evillm?label=Followers&style=flat&color=334155" />
-  <img src="https://img.shields.io/github/stars/Evillm?label=Stars&style=flat&color=475569" />
+  <img src="https://komarev.com/ghpvc/?username=Evilm&label=Profile%20views&color=1E293B&style=flat" />
+  <img src="https://img.shields.io/github/followers/Evilm?label=Followers&style=flat&color=334155" />
+  <img src="https://img.shields.io/github/stars/Evilm?label=Stars&style=flat&color=475569" />
 </p>
 
 ---
@@ -59,13 +59,13 @@ Here are some ideas to get you started:
 
 # 💫 About Me
 
-👋 **Mohamed Ayman** — **Cybersecurity researcher** with strong hands-on experience in offensive and defensive security.  
+👋 **Mohamed Ayman** — **Cybersecurity Pentester** with strong hands-on experience in offensive and defensive security.  
 🔐 Specialized in **Web Application Penetration Testing**, **Linux Security**, and **Virtualized Lab Environments**.  
-🧠 Background in **SOC foundations, networking, and secure infrastructure design**.
+🧠 Background in **Networking , secure infrastructure design**.
 
-- 🛡️ Focus areas: **Web Pentesting, SOC/Blue Team basics, Linux hardening**
-- 🧪 Daily tools: **Kali Linux, Astra Linux, Burp Suite, Nmap, Wireshark**
-- 🧱 Infrastructure: **VMware, Proxmox, VirtualBox**
+- 🛡️ Focus areas: **Web Pentesting, offensive security / Red Team basics, Linux hardening**
+- 🧪 Daily tools: **Kali Linux, Astra Linux, Burp Suite**
+- 🧱 Infrastructure: **VMware, Proxmox**
 - 🎯 Goal: Become a **high-level practical security engineer** who understands systems from attack to defense
 
 > Methodology: understand the system → break it safely → analyze impact → harden it properly.
@@ -78,7 +78,6 @@ Here are some ideas to get you started:
 |---|---|
 | Field | Information Security / Cyber Security |
 | Main Focus | Web Application Pentesting |
-| Secondary | SOC Foundations, Linux Security |
 | Infrastructure | VMware, Proxmox, Virtualization Labs |
 | Strengths | Lab building, realistic attack simulation, documentation |
 
@@ -88,8 +87,8 @@ Here are some ideas to get you started:
 
 ### 🔹 Programming & Scripting
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Regex](https://img.shields.io/badge/regex-000000?style=for-the-badge)
+![Javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge)
+![php](https://img.shields.io/badge/php-000000?style=for-the-badge)
 
 ### 🔹 Operating Systems & Virtualization
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -106,9 +105,6 @@ Here are some ideas to get you started:
 ### 🔹 Cybersecurity (Offensive & Defensive)
 ![Web Pentesting](https://img.shields.io/badge/Web_Pentesting-8B0000?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
-![SOC](https://img.shields.io/badge/SOC-ELK_Stack-red?style=for-the-badge)
-![SIEM](https://img.shields.io/badge/SIEM-Detection-purple?style=for-the-badge)
 
 ---
 
@@ -132,7 +128,6 @@ Here are some ideas to get you started:
 
 - Build isolated lab  
 - Attack safely (web / network / misconfigurations)  
-- Analyze logs & impact  
 - Document findings  
 - Harden & re-test  
 

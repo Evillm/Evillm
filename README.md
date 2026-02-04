@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:0B1F3A,100:312E81&height=210&section=header&text=MOHAMED%20AYMAN&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Researcher%20%7C%20Web%20Pentesting%20%7C%20Virtualization%20%7C%20SOC%20Foundations&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:0B1F3A,100:312E81&height=210&section=header&text=MOHAMED%20AYMAN&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Pentester%20%7C%20Web%20Pentesting%20%7C%20Virtualization%20%7C%20%20Foundations&descAlignY=62&descAlign=50" width="100%"/>
 </p>
 
 <!-- Typing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=920&height=95&lines=Cybersecurity+Researcher+%E2%80%94+Information+Security;Web+Pentesting+%7C+Linux+Security+%7C+Virtualization;SOC+Foundations+%7C+Networking+%7C+Threat+Analysis;Build+labs+%E2%86%92+attack+%E2%86%92+detect+%E2%86%92+harden" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=920&height=95&lines=Cybersecurity+Researcher+%E2%80%94+Information+Security;Web+Pentesting+%7C+Linux+Security+%7C+Virtualization;Foundations+%7C+Networking+%7C+Threat+Analysis;Build+labs+%E2%86%92+attack+%E2%86%92+detect+%E2%86%92+harden" />
 </p>
 
 <!-- Snake -->
